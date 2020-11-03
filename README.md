@@ -5,7 +5,7 @@
 <p align="center">
 A simple project on simulation of rain
 </p>
-<a href="https://github.com/iamrajiv/Rain-Simulation/network"><img src="https://img.shields.io/github/forks/iamrajiv/Rain-Simulation?color=0366d6&style=for-the-badge"/></a>
+<a href="https://github.com/iamrajiv/Rain-Simulation/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/Rain-Simulation?color=0366d6&style=for-the-badge"/></a>
 <a href="https://github.com/iamrajiv/Rain-Simulation/stargazers"><img src="https://img.shields.io/github/stars/iamrajiv/Rain-Simulation?color=0366d6&style=for-the-badge"/></a>
 <a href="https://github.com/iamrajiv/Rain-Simulation/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/Rain-Simulation?color=0366d6&style=for-the-badge"/></a>
 </div>
