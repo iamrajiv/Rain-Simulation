@@ -12,7 +12,7 @@ A simple project on simulation of rain
 
 ## About Project
 
-This project is mainly based on Kinematics & Dynamics. It uses <a href="https://en.wikipedia.org wiki/Entity_component_system">Entity Component System</a> architectural pattern.
+This project is mainly based on Kinematics & Dynamics. It uses <a href="https://en.wikipedia.org/wiki/Entity_component_system">Entity Component System</a> architectural pattern.
 
 ## Demonstration
 
