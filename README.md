@@ -18,10 +18,6 @@ This project is mainly based on Kinematics & Dynamics. It uses <a href="https://
 
 <a href="https://iamrajiv.github.io/Rain-Simulation/">Run Project</a>
 
-## Example Usage
-
-<p align="center"><img src="" height="300px" width="300px" /></p>
-
 ## License
 
 [MIT](https://github.com/iamrajiv/Rain-Simulation/blob/master/LICENSE)
