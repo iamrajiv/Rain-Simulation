@@ -2,7 +2,7 @@
 <img src="assets/logo.svg" width="400" />
 <br />
 <h1>Rain Simulation</h1>
-<p align="center">
+<p>
 A simple project on simulation of rain
 </p>
 <a href="https://github.com/iamrajiv/Rain-Simulation/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/Rain-Simulation?color=0366d6&style=for-the-badge" /></a>
