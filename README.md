@@ -16,7 +16,7 @@ This project is mainly based on Kinematics and Dynamics. It uses <a href="https:
 
 ## Demonstration
 
-<a href="https://iamrajiv.github.io/Rain-Simulation/">Run Project</a>
+<a href="https://iamrajiv.github.ioRain-Simulation/">Run Project</a>
 
 ## License
 
