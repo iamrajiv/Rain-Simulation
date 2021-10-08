@@ -1,0 +1,9 @@
+canvas {
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+figure > canvas {
+  max-width: 100%;
+  height: auto;
+}
