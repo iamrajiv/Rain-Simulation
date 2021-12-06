@@ -7,7 +7,7 @@ A simple project on simulation of rain
 </p>
 <a href="https://github.com/iamrajiv/Rain-Simulation/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/Rain-Simulation?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
 <a href="https://github.com/iamrajiv/Rain-Simulation/stargazers"><img src="https://img.shields.io/github/stars/iamrajiv/Rain-Simulation?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
-<a href="https://github.com/iamrajiv/Rain-Simulation/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/Rain-Simulation?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
+<a href="https://github.com/iamrajiv/Rain-Simulation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/Rain-Simulation?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
 </div>
 
 ## About
@@ -20,4 +20,4 @@ This project is mainly based on Kinematics and Dynamics. It uses <a href="https:
 
 ## License
 
-[MIT](https://github.com/iamrajiv/Rain-Simulation/blob/master/LICENSE)
+[MIT](https://github.com/iamrajiv/Rain-Simulation/blob/main/LICENSE)
