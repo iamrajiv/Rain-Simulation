@@ -12,11 +12,11 @@ A simple project on simulation of rain
 
 ## About
 
-This project is mainly based on Kinematics and Dynamics. It uses <a href="https://en.wikipedia.org/wiki/Entity_component_system">Entity Component System</a> architectural pattern.
+This project is focused on the application of Kinematics and Dynamics principles using an Entity Component System (ECS) architectural pattern.
 
 ## Demonstration
 
-<a href="https://iamrajiv.github.ioRain-Simulation/">Run Project</a>
+[Run Project](https://iamrajiv.github.io/Rain-Simulation)
 
 ## License
 
